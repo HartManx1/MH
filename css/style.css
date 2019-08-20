@@ -1,0 +1,25 @@
+body {
+  font-family: 'Raleway', sans-serif;
+}
+
+.logo {
+  display: inline-block;
+  position: absolute;
+  left: 19vw;
+}
+
+.text-logo {
+  font-size: 50px;
+  position: absolute;
+  float: left;
+  width: 5vw;
+  top: 55px;
+}
+
+.signature {
+  font-weight: 400;
+  font-size: 11px;
+  float: right;
+  margin-right: 10px;
+}
+/*# sourceMappingURL=style.css.map */
